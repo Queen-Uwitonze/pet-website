@@ -1,11 +1,13 @@
 h1{
     color: blue;
     text-align: center;
+    font-size: 1.9em;
 }
 h2 {
     color: green;
     font-style: italic;
     text-align: center;
+    font-size: 1.3em,
   }
   p {
     font-family: sans-serif;
